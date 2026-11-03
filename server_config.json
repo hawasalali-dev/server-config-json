@@ -1,0 +1,10 @@
+{
+    "Servername": "Web-Server-01",
+    "Port": 443,
+    "Aktiv": true,
+    "Dienste": [
+        "HTTP",
+        "HTTPS",
+        "SSH"
+    ]
+}
